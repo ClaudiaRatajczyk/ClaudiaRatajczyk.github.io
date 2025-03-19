@@ -1,0 +1,85 @@
+h1, h2 {
+    font-family: 'Georgia', serif;
+}
+
+body {
+    background-color: palevioletred; 
+    margin: 20px;
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: pink ;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px white;
+}
+
+div {
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: pink ;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px white;
+}
+
+/* Unique layout for one page */
+header {
+    background-color: aliceblue;
+    color: palevioletred;
+    padding: 30px 10px;
+    text-align: center;
+    border-radius: 8px 8px 0 0;
+}
+
+a {
+    color: palevioletred;
+}
+
+ul {
+    list-style-type: square;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+dt {
+    font-weight: bold;
+}
+
+#selfie {
+    display: block;
+    margin: 20px auto;
+    width: 300px;
+    height: auto;
+    border: 20px solid pink;
+}
+
+#mashed-potatoes {
+    float: absolute;
+    width: 150px;
+    height: auto;
+    margin-left: 20px;
+    border: 4px solid palevioletred; 
+    border-radius: 10px;
+}
+
+#sisters {
+    float: right;
+    width: 300px;
+    height: auto;
+    margin-left: 20px;
+    border: 4px solid palevioletred; 
+    border-radius: 10px;
+}
+
+#millie {
+    float: right;
+    width: 300px;
+    height: auto;
+    margin-left: 20px;
+    border: 4px solid palevioletred; 
+    border-radius: 10px;
+}
